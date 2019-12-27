@@ -1,5 +1,5 @@
 # ethereum-keystore-to-privatekey
-You can take a private key from keystore file
+You can get a private key from keystore file and password
 
 > froked from : https://github.com/gjeanmart/stackexchange/tree/master/47031-how-to-decrypt-private-key-form-keystore-file-without-using-third-party-applica
 
